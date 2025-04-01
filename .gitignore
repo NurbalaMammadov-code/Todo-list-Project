@@ -1,9 +1,1 @@
-# IDE ve editör dosyaları
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Sistem dosyaları
-.DS_Store
-Thumbs.db 
+ 
